@@ -57,7 +57,7 @@ My current interests include:
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,nextjs" />
 </p>
 
 ### Backend & Data
@@ -69,7 +69,7 @@ My current interests include:
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
