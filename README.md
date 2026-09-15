@@ -19,7 +19,7 @@
 
 ## 👩🏻‍💻 About me
 
-I'm **Helena**, a Computer Science student who likes to understand how things work — and, more importantly, **build things that actually work**.
+I'm **Helena**, a Computer Science student who likes to understand how things work - and, more importantly, **build things that actually work**.
 
 I'm currently exploring the intersection between **Data, Artificial Intelligence and Backend Development**, while building a broader foundation in software engineering.
 
