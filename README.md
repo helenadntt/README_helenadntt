@@ -2,7 +2,7 @@
 
 # Hey, I'm Helena 👋
 
-### Computer Science student · Builder · Data & AI enthusiast
+### Computer Science Student · Builder · Data & AI enthusiast
 
 <p>
   <a href="https://helenadntt.vercel.app/">
